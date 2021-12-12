@@ -1,0 +1,65 @@
+
+
+  /* Nav Bar b*/
+
+
+.navigation{
+    width: 1200px
+} 
+
+.inline-block {
+display: inline-block;
+vertical-align: top;
+}
+
+
+
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+
+nav {
+    width: 73%;
+    padding: 1%;
+
+}
+
+.nav ul {
+   width: 50%; 
+   margin-left: auto;
+}
+
+
+  /* Hero Image b*/
+
+.heroImg {
+    height: 600px;
+    padding: 25px;
+
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+  /* Footer b*/
+
+footer {
+    background-color: #373738;
+    position: absolute;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+   
+footer ul {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+
+
